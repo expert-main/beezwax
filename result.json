@@ -1,0 +1,75 @@
+{
+  "transponders": [
+    {
+      "id": 0,
+      "name": "a",
+      "children": [
+        {
+          "id": 2,
+          "name": "c",
+          "children": [
+            {
+              "id": 7,
+              "name": "h",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "d",
+          "children": [
+            {
+              "id": 8,
+              "name": "i",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "e",
+          "children": [
+            {
+              "id": 9,
+              "name": "j",
+              "children": []
+            },
+            {
+              "id": 10,
+              "name": "k",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "b",
+      "children": [
+        {
+          "id": 5,
+          "name": "f",
+          "children": []
+        },
+        {
+          "id": 6,
+          "name": "g",
+          "children": [
+            {
+              "id": 11,
+              "name": "l",
+              "children": []
+            },
+            {
+              "id": 12,
+              "name": "m",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
