@@ -10,7 +10,7 @@ const db = knex({
 });
 
 const app: Express = express();
-const port = 3000;
+const port = 8000;
 
 const dbData = async (dbName: string) => {
   return await db.from(dbName).select("*");
